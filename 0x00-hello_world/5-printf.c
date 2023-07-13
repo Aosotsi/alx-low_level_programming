@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  *
- * Description: uses printf to show  "with proper grammar, but the outcome is a piece
+ * Description: printf for  "with proper grammar, but the outcome is a piece
  * of art,"
  * Return: Always 0 (Success)
  */
