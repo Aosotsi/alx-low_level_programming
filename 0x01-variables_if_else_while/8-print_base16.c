@@ -2,8 +2,7 @@
 /**
  * main - main block
  *
- * Description: Print all numbers of hex in lowercase.
- * 
+ * Description: Print all numbers of hex in lowercase. 
  * Return: 0
  */
 
