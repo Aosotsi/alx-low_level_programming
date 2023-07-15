@@ -7,10 +7,11 @@
  *
  * Return: 0
  */
+
 int main(void)
 {
-	char c = 'z';
-	
+	char c;
+
 	for (c = 'z'; c >= 'a'; c--)
 	{
 		putchar(c);
