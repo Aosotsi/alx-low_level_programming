@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Print all numbers of hex in lowercase. 
+ * Description: Print all numbers of hex in lowercase.
+ * You can only use putchar 3 times.
  * Return: 0
  */
-
 int main(void)
 {
 	char c;
