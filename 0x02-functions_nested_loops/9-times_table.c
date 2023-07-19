@@ -5,9 +5,8 @@
  */
 void times_table(void)
 {
-int r, c, d;
+	int r, c, d;
 
-	//Start with 0 row
 	for (r = 0; r <= 9; r++)
 	{
 		_putchar('0');
