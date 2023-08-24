@@ -4,7 +4,7 @@
  * print_list - print all the elements of a list
  *
  * @h: head
- *
+ * @num: counts number of nodes
  * Return: number of nodes
  *
  */
